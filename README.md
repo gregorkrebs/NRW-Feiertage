@@ -1,1 +1,1 @@
-NRW-Feiertage bis 2100
+NRW-Feiertage bis 2099 im json Format
